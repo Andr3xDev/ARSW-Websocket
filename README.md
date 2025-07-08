@@ -52,4 +52,4 @@ The server will listen on ws://localhost:8080.
 
 Once the server is running, open a web browser on localhost with port 8080.
 
-![image](i1.png)
+![image](docs/i1.png)
